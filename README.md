@@ -67,6 +67,3 @@ Sampurna Sen
 B.Tech Computer Science Engineering
 KIIT University
 
-
-
-This pject is developed as part of an academic SAP implementation exercise and simulates a real-world enterprise sales
